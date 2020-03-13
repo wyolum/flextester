@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name flextester)(type KiCad)(uri ${KIPRJMOD}/flextester.pretty)(options "")(descr ""))
+)
